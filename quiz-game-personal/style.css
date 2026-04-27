@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(24, 23, 23);
+  color: white;
+}
+
+.active {
+  display: block;
+}
+
+.inactive {
+  display: none;
+}
+
+/* .questions-div {
+  display: none;
+} */
+
+.correct {
+  border: 1px solid green;
+  transition: all 500ms;
+}
+.wrong {
+  border: 1px solid red;
+  transition: all 500ms;
+}

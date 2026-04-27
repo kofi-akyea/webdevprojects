@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+}
+
+.color-container {
+  width: 100px;
+  height: 150px;
+  margin-top: 10px;
+}
+
+.color-div {
+  width: 90px;
+  height: 100px;
+  background-color: blue;
+  border-radius: 10px;
+}

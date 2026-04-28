@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  min-width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 50px;
+}
+
+.list {
+  width: 150px;
+  height: 250px;
+  background-color: rgb(209, 209, 209);
+  gap: 5px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.cards {
+  margin-top: 15px;
+  background-color: wheat;
+  padding: 10px;
+  border-radius: 1000px;
+}
